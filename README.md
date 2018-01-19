@@ -10,6 +10,7 @@ To begin with <br />
 **Primary Reference Books**
 * Shapes and Diffeomorphisms by Laurent Younes. [link](https://link.springer.com/book/10.1007%2F978-3-642-12055-8)
 * Differential Geometry: Curves, Surfaces and Manifold by Wolfgang Kuhnel. 
+* Introduction to Smooth Manifolds by John M Lee. 
 
 **Other reference books:**
 * Numerical Geometry of Rigid Shapes by Alex Bronstein, Michael Bronstein and Ron Kimmel.
