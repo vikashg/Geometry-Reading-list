@@ -4,7 +4,7 @@ To begin with <br />
 * The most important book is [Differential Geometry of Curves and Surfaces by Manfredo doCarmo](http://www.math.uni.lodz.pl/~maczar/ggk/do%20Carmo,%20Differential%20Geometry%20of%20Curves%20and%20Surfaces.pdf).<br />
 * Associated lecture by [Claudio Arezzo at ICTP](https://www.youtube.com/watch?v=tKnBj7B2PSg&list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz). The lectures go through the chapters of the book and make the reading so much easier. <br />
 
-* [Gravity and Light](https://gravity-and-light.herokuapp.com/tutorials): A differential geometery course with a taste of physics, spacetime and gravitation.
+* Gravity and Light: A differential geometery course with a taste of physics, spacetime and gravitation. [video lectures](https://www.youtube.com/watch?v=7G4SqIboeig&list=PLMsYJgjgZE8hh6d6ia2dP1NI0BKNRXbiw&index=1&t=409s) [tutorials](https://gravity-and-light.herokuapp.com/tutorials)
 * Differential Geometry for *Computer Science* by [Justin Solomon](https://www.youtube.com/user/justinmsolomon/videos?sort=dd&view=0&shelf_id=1)
 
 **Primary Reference Books**
