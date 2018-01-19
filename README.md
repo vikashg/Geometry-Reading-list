@@ -4,9 +4,13 @@ To begin with <br />
 * The most important book is [Differential Geometry of Curves and Surfaces by Manfredo doCarmo](http://www.math.uni.lodz.pl/~maczar/ggk/do%20Carmo,%20Differential%20Geometry%20of%20Curves%20and%20Surfaces.pdf).<br />
 * Associated lecture by [Claudio Arezzo at ICTP](https://www.youtube.com/watch?v=tKnBj7B2PSg&list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz). The lectures go through the chapters of the book and make the reading so much easier. <br />
 
+**Primary Reference Books**
+* Shapes and Diffeomorphisms by Laurent Younes. [link](https://link.springer.com/book/10.1007%2F978-3-642-12055-8)
+* Differential Geometry: Curves, Surfaces and Manifold by Wolfgang Kuhnel. 
+
 **Other reference books:**
 * Numerical Geometry of Rigid Shapes by Alex Bronstein, Michael Bronstein and Ron Kimmel.
-* Differential Geometry: Curves, Surfaces and Manifold by Wolfgang Kuhnel. 
+* Gravitation by Charles W. Misner, John Archibald Wheeler, and Kip Thorne
 * A panaromic view of Riemannian Geometry by Marcel Berger. [link](http://www.springer.com/us/book/9783540653172)
 * Calculus on Manifolds by Michael Spivak.
 * Spacetime and Geometry: An Introduction to General Relativity by Sean Carroll.
