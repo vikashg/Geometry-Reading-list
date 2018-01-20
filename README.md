@@ -6,7 +6,7 @@ To begin with <br />
 
 * Gravity and Light: A differential geometery course with a taste of physics, spacetime and gravitation. [video lectures](https://www.youtube.com/watch?v=7G4SqIboeig&list=PLMsYJgjgZE8hh6d6ia2dP1NI0BKNRXbiw&index=1&t=409s) [tutorials](https://gravity-and-light.herokuapp.com/tutorials) <br />
 Not to scare anyone, but this is the first lecture's first minute. It is so amazing. 
-![Screenshot](SP_TIME_CROP)
+![Screenshot](SP_TIME_CROP.png)
 * Differential Geometry for *Computer Science* by [Justin Solomon](https://www.youtube.com/user/justinmsolomon/videos?sort=dd&view=0&shelf_id=1)
 
 **Primary Reference Books**
