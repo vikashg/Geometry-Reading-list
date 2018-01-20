@@ -9,12 +9,12 @@ Not to scare anyone, but this is the first lecture's first minute. It is so amaz
 ![Screenshot](SP_TIME_CROP.png)
 * Differential Geometry for *Computer Science* by [Justin Solomon](https://www.youtube.com/user/justinmsolomon/videos?sort=dd&view=0&shelf_id=1)
 
-**Primary Reference Books**
+## Primary Reference Books
 * Shapes and Diffeomorphisms by Laurent Younes. [link](https://link.springer.com/book/10.1007%2F978-3-642-12055-8)
 * Differential Geometry: Curves, Surfaces and Manifold by Wolfgang Kuhnel. 
 * Introduction to Smooth Manifolds by John M Lee. 
 
-**Other reference books:**
+## Other reference books
 * Numerical Geometry of Rigid Shapes by Alex Bronstein, Michael Bronstein and Ron Kimmel.
 * Gravitation by Charles W. Misner, John Archibald Wheeler, and Kip Thorne
 * A panaromic view of Riemannian Geometry by Marcel Berger. [link](http://www.springer.com/us/book/9783540653172)
@@ -22,7 +22,7 @@ Not to scare anyone, but this is the first lecture's first minute. It is so amaz
 * Spacetime and Geometry: An Introduction to General Relativity by Sean Carroll.
 * Statistical Shape and deformations by Guoyan Zheng, Shuo Li, Gabor Szekely [link](https://www.elsevier.com/books/statistical-shape-and-deformation-analysis/zheng/978-0-12-810493-4) A statistical shape analysis book with more focus on medical imaging.
 
-**Quick Glossary**
+### Quick Glossary
 At times, I get lost with certain definitions which has roots in Group Theory. One might encounter Lie Groups and notions of Symmetry  sooner or later while going through these material. Instead of going diiging into Abstract Algebra books. Here is a good quick reference material explained on this [page](http://www.jmilne.org/math/CourseNotes/index.html)
 Also you can refer to this [short definitions](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 
