@@ -1,3 +1,7 @@
+# Contents
+   - [Reading List](#reading-list-differential-geometry) 
+   - [Research Paper](#Research-papers) 
+
 # Reading list Differential Geometry
 Here is a list of courses/books one can use. This list is presented in no particular order of reading, but in a order I feel easier to understand. 
 To begin with <br />
@@ -38,3 +42,6 @@ In my opinion, someone interested in geometry should also have a keen interest i
 * **Fermat's Last Theorem - The Theorem and Its Proof: An Exploration of Issues and Ideas**: An amazin 1993 documentry about Andrew Wiles and his struggles with Fermat's Last Theorem. Here is the [movie](https://www.youtube.com/watch?v=6ymTZEeTjI8&t=10s)
 * **Logicomix: An epic search for truth** by Christos Papadimitriou: An amazing *comic-like* book about the historical context and discussions between Cantor, Russel and Wittgenstein.
 * **A Mathematician's Apology** by GH Hardy: A letter written by Hardy towards the end of his career and his reflections on his mathematical career. Here is the [letter](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf).
+
+# Reasearch Papers
+I am working on it and will be updated soon with key research articles focussed on medical imaging. 
