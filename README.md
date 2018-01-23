@@ -1,6 +1,6 @@
 # Contents
    - [Reading List](#reading-list-differential-geometry) 
-   - [Research Paper](#Research-papers) 
+   - [Research Paper](#research-papers) 
 
 # Reading list Differential Geometry
 Here is a list of courses/books one can use. This list is presented in no particular order of reading, but in a order I feel easier to understand. 
@@ -43,5 +43,5 @@ In my opinion, someone interested in geometry should also have a keen interest i
 * **Logicomix: An epic search for truth** by Christos Papadimitriou: An amazing *comic-like* book about the historical context and discussions between Cantor, Russel and Wittgenstein.
 * **A Mathematician's Apology** by GH Hardy: A letter written by Hardy towards the end of his career and his reflections on his mathematical career. Here is the [letter](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf).
 
-# Reasearch Papers
+# Research Papers
 I am working on it and will be updated soon with key research articles focussed on medical imaging. 
