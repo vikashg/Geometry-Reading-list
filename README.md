@@ -45,3 +45,4 @@ In my opinion, someone interested in geometry should also have a keen interest i
 
 # Research Papers
 I am working on it and will be updated soon with key research articles focussed on medical imaging. 
+* [Topology TooKit](http://www-pequan.lip6.fr/~tierny/) by Julien Tierny and the associated book [Topological Data analysis for scientific viualization](https://link.springer.com/book/10.1007%2F978-3-319-71507-0)
